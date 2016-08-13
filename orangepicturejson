@@ -1,0 +1,81 @@
+{
+  "oranges": [
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o1.jpg",
+      "details": "This is additional information about flower1. This information will be only shown if you click on show more link.",
+      "rating": 1,
+      "name": "The Big Bang Theory",
+      "desc": "This is Orange 1"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o2.jpg",
+      "details": "This is additional information about flower2. This information will be only shown if you click on show more link.",
+      "rating": 2,
+      "name": "Criminal Minds",
+      "desc": "This is Orange 2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o3.jpg",
+      "details": "This is additional information about flower3. This information will be only shown if you click on show more link.",
+      "rating": 3,
+      "name": "Game of Thrones",
+      "desc": "This is Orange 3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o4.jpg",
+      "details": "This is additional information about flower4. This information will be only shown if you click on show more link.",
+      "rating": 4,
+      "name": "Marvel's Agents of SHIELD",
+      "desc": "This is Orange 4"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o5.jpg",
+      "details": "This is additional information about flower5. This information will be only shown if you click on show more link.",
+      "rating": 5,
+      "name": "Arrow",
+      "desc": "This is Orange 5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o6.jpg",
+      "details": "This is additional information about flower6. This information will be only shown if you click on show more link.",
+      "rating": 2,
+      "name": "Grey's Anatomy",
+      "desc": "This is Orange 6"
+    },
+        {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o7.jpg",
+      "details": "This is additional information about flower2. This information will be only shown if you click on show more link.",
+      "rating": 2,
+      "name": "Criminal Minds",
+      "desc": "This is Orange 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o8.jpg",
+      "details": "This is additional information about flower3. This information will be only shown if you click on show more link.",
+      "rating": 3,
+      "name": "Game of Thrones",
+      "desc": "This is Orange 3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o9.jpg",
+      "details": "This is additional information about flower4. This information will be only shown if you click on show more link.",
+      "rating": 4,
+      "name": "Marvel's Agents of SHIELD",
+      "desc": "This is Orange 4"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o10.jpg",
+      "details": "This is additional information about flower5. This information will be only shown if you click on show more link.",
+      "rating": 5,
+      "name": "Arrow",
+      "desc": "This is Orange 5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o11.jpg",
+      "details": "This is additional information about flower6. This information will be only shown if you click on show more link.",
+      "rating": 2,
+      "name": "Grey's Anatomy",
+      "desc": "This is Orange 6"
+    }
+  ]
+}

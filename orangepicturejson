@@ -1,5 +1,5 @@
 {
-  "flowers": [
+  "oranges": [
     {
       "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o1.jpg",
       "details": "This is additional information about flower1. This information will be only shown if you click on show more link.",

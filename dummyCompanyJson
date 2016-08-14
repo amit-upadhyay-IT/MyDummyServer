@@ -1,7 +1,7 @@
 {
   "companies": [
     {
-      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o1.jpg",
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o11.jpg",
       "details": "This company was formed in 1996 and is providing great services to their clients. This is located near vishrantvadi",
       "rating": 1,
       "name": "The Big Bang Theory",
@@ -71,7 +71,7 @@
       "desc": "This is Orange 5"
     },
     {
-      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o11.jpg",
+      "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o1.jpg",
       "details": "This is additional information about flower6. This information will be only shown if you click on show more link.",
       "rating": 2,
       "name": "Grey's Anatomy",

@@ -2,7 +2,7 @@
   "oranges": [
     {
       "url": "https://raw.githubusercontent.com/amit-upadhyay-IT/MyDummyServer/master/orange/o1.jpg",
-      "details": "This is additional information about flower1. This information will be only shown if you click on show more link.",
+      "details": "This company was formed in 1996 and is providing great services to their clients. This is located near vishrantvadi",
       "rating": 1,
       "name": "The Big Bang Theory",
       "desc": "This is Orange 1"
